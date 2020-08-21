@@ -152,7 +152,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [webglearth2](https://github.com/webglearth/webglearth2) - Open-source virtual planet web application running in any web browser with support for WebGL HTML5 standard
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supported by ESRI
 - [D3.js](https://d3js.org/) - A JavaScript library for manipulating documents based on data
-- [Echarts](http://echarts.baidu.com/) - A user-friendly data visualisation library supported by Baidu
+- [Echarts](https://echarts.apache.org/) - A user-friendly data visualisation library supported by Baidu
 - [geomajas-client javascript](http://www.geomajas.org/client-javascript) - Open source JavaScript mapping API for cool maps and apps
 - [Google Maps Javascript API](https://developers.google.com/maps/) - A JavaScript api for google map
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
